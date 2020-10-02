@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032065385660",
+    "firebase_url": "https://whats-that-app.firebaseio.com",
+    "project_id": "whats-that-app",
+    "storage_bucket": "whats-that-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032065385660:android:8c55a277f63740c9d67cb9",
+        "android_client_info": {
+          "package_name": "com.example.whats_that"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032065385660-eqnp0uv6g3au0noactk5sho8utuk6cvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAykRjyfX13yoK5jph-e9Symnunv6LYjyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032065385660-eqnp0uv6g3au0noactk5sho8utuk6cvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

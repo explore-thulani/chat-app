@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:whats_that/models/user.dart';
 import 'package:whats_that/screens/authenticate/login_page.dart';
 import 'package:whats_that/screens/authenticate/registration.dart';
 import 'package:whats_that/screens/wrapper.dart';
 import 'package:whats_that/services/auth.dart';
-import 'report.dart';
+import 'package:whats_that/models/user.dart';
+import 'package:whats_that/models/firestore_test.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(MyApp());
